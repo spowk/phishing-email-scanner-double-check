@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 The Origin Story & The Problem This Solves
+## 🎯 Why i build it
 
 While investigating a suspicious email forwarded by a client, the email's structure and social engineering tactics immediately indicated a phishing attempt. However, when I scanned the primary HTML button acting as the "call to action", security vendors flagged it as perfectly safe (0 detections). 
 
