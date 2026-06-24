@@ -27,7 +27,7 @@ This real-world incident sparked the creation of this tool. Standard email secur
 
 ## 🚀 How It Works (Example Output)
 
-*(Placeholder for Screenshot: Will be added in GitHub)*
+![Output Screenshot](TheProject.png)
 
 1. **Depth 1:** Scans the initial link found in `email.html`. The VT Reputation might say "Clean" (Score: 0).
 2. **Parsing:** Identifies the page as HTML and extracts hidden `<a>`, `<button>` tags, and `meta refresh` redirects.
