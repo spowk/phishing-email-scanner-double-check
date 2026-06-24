@@ -77,3 +77,4 @@ If `claimed_extension` is in a safe list (like `.pdf`) but the `real_type` is an
 
 ---
 *Disclaimer: This tool is built for educational and internal analysis purposes only. Always execute malicious artifact analysis in isolated environments.*
+*Built with assistance from AI tools (Gemini) for code structure.*
